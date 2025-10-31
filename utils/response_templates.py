@@ -16,67 +16,67 @@ def get_guidance_for_crime(crime_type):
             "avoid paying ransom, and contact a professional or cybercrime authorities."
         ),
 
-        "identity theft": (
+        "identity_theft": (
             "🆔 This seems like an identity theft case. Immediately change passwords, inform your bank, "
             "and file a report at https://www.cybercrime.gov.in/."
         ),
 
-        "online harassment": (
+        "online_harassment": (
             "💢 You’re facing online harassment. Block and report the user, take screenshots as evidence, "
             "and reach out to authorities or trusted contacts for support."
         ),
 
-        "financial fraud": (
+        "financial_fraud": (
             "💰 It seems like a financial scam. Contact your bank immediately to freeze transactions "
             "and file a report on the cybercrime portal."
         ),
 
-        "social media hacking": (
+        "social_media_hacking": (
             "🔐 Your social media account might have been hacked. Change passwords right away, "
             "enable two-factor authentication, and report the account to the platform’s support team."
         ),
 
-        "fake job offer": (
+        "fake_job_offer": (
             "📩 This might be a fake job offer scam. Avoid sharing personal or financial details "
             "and verify the company through official websites or LinkedIn before proceeding."
         ),
 
-        "loan scam": (
+        "loan_scam": (
             "🏦 It seems like a loan scam. Do not transfer any money or share OTPs. "
             "Report it to your bank and the cybercrime portal immediately."
         ),
 
-        "fake shopping website": (
+        "fake_shopping_website": (
             "🛒 You might have encountered a fake shopping site. Avoid further transactions "
             "and report the website to cyber authorities."
         ),
 
-        "romance scam": (
+        "romance_scam": (
             "❤️ This seems like a romance scam. Be cautious of anyone asking for money or personal information online. "
             "Block and report them immediately."
         ),
 
-        "data breach": (
+        "data_breach": (
             "📁 A data breach may have exposed your information. Change all passwords, enable 2FA, "
             "and monitor your financial accounts for suspicious activity."
         ),
 
-        "email spoofing": (
+        "email_spoofing": (
             "📧 It appears to be email spoofing. Do not respond or click links. "
             "Check the sender’s real email domain and report it as spam."
         ),
 
-        "malware attack": (
+        "malware_attack": (
             "🐞 Your system may be infected with malware. Run a trusted antivirus scan, "
             "disconnect from the internet, and seek IT support."
         ),
 
-        "SIM swapping": (
+        "sim_swapping": (
             "📱 This looks like a SIM swapping case. Contact your mobile service provider immediately "
             "to block your SIM and secure your linked accounts."
         ),
 
-        "cryptocurrency fraud": (
+        "cryptocurrency_fraud": (
             "₿ This seems like a crypto-related scam. Never share your wallet credentials or private keys. "
             "Report the fraud at https://www.cybercrime.gov.in/."
         ),
