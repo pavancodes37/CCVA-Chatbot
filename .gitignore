@@ -1,0 +1,11 @@
+venv/ 
+__pycache__/ 
+*.bin 
+*.safetensors 
+*.pt 
+*.pth 
+*.log 
+nlp/model/bert_ccva_model/ 
+nlp/scripts/results/ 
+*.json 
+.env 
